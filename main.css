@@ -1,0 +1,109 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+Body {
+    background-color: rgb(24, 29, 81);  /* the background color is dark blue */
+    font-family: 'Montserrat'; /* The font is Montserrat */
+}
+
+h1 {
+    text-align: center; /* text is aligned to the center */
+    background-color: rgb(24, 29, 81);  /* the background color is dark blue */
+    font-size: 30px;/* The font size is 30px */
+    margin-left: 100px;/* left margin is 100px */
+    margin-top: 50px;  /* top margin is 50px */
+    background-color: black; /* the color is black */
+    color: white; /* the color is white */
+    font-weight: bold;
+    padding: 20px;
+    border-radius: 15px;
+    width: 150px;
+}
+
+h2 {
+    text-align: center; /* text is aligned to the center */
+    background-color: rgb(24, 29, 81);  /* the background color is dark blue */
+    font-size: 30px;/* The font size is 30px */
+    margin-left: 450px;/* left margin is 450px */
+    margin-top: -80px; /* top margin is -80px */
+    background-color: white; /* the background color is white */
+    padding: 6px 12px;
+    border-radius: 30px;
+     font-weight: bold;
+    width: 170px;
+ }  
+
+
+  h3{
+    text-align: center; /* text is aligned to the center */
+    background-color: rgb(24, 29, 81);  /* the background color is dark blue */
+    font-size: 30px;/* The font size is 30px */
+    margin-left: 800px;/* left margin is 800px */
+    margin-top: -70px; /* top margin is -70px */
+    background-color: white; /* the background color is white */
+    padding: 6px 12px;
+    border-radius: 30px;
+    font-weight: bold;
+    width: 170px;
+ }  
+
+
+ h4 {
+    text-align: center; /* text is aligned to the center */
+    background-color: rgb(24, 29, 81);  /* the background color is dark blue */
+    font-size: 30px;/* The font size is 30px */
+    margin-left: 1150px;/* left margin is 1150px */
+    margin-top: -75px; /* top margin is -75px */
+    background-color: white; /* the background color is white */
+    padding: 6px 12px;
+    border-radius: 30px;
+    font-weight: bold;
+    width: 170px;
+ }  
+
+
+ h5 {
+    text-align: center; /* text is aligned to the center */
+    background-color: rgb(24, 29, 81);   /* the background color is dark blue */
+    font-size: 30px;/* The font size is 30px */
+    margin-left: 1500px;/* left margin is 1500px */
+    margin-top: -86px; /* top margin is 50px */
+    background-color: white; /* the background color is white */
+    padding: 8px;
+    border-radius: 30px;
+    font-weight: bold;
+    width: 170px;
+ }  
+
+
+ h6 {
+    text-align: left; /* text is aligned to the left */
+    background-color: rgb(24, 29, 81);  /* the background color is dark blue */
+    font-size: 20px;/* The font size is 20px */
+    margin-left: 100px;/* left margin is 100px */
+    margin-top: 80px; /* top margin is 80px */
+    background-color: #004aad; /* the background color is dark blue */
+    padding: 20px 140px;
+    border-radius: 15px;
+    display: inline-block;
+    margin-bottom: 20px;
+   }
+   
+   p {
+      margin-left: 40px;/* left margin is 40px */
+      text-align: left;/* text is aligned to the left */
+      background-color: white; /* the background color is white */
+      padding: 30px 120px;
+      width: 350px;
+      border-radius: 15px;
+   }
+   a {
+      color: black; /* the color is black */
+      text-decoration: none;
+   }
+   img {
+        margin-top: -450px; /* top margin is -450px */
+        margin-left: 500px;/* left margin is 500px */
+        text-align: right;/* text is aligned to the right */
+        margin-right: 200px;
+   }
+
+
